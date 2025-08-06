@@ -1,4 +1,5 @@
 # OziKargo
+- University 2nd year C# course project.
 This project was developed as a final exam assignment for my university course using C# and SQL Server. The application is built with Entity Framework and LINQ for database operations.
 
 🔧 Features:
