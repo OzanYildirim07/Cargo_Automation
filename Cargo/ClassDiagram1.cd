@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cargo.customer" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAEAAAAgAAgEEAYAQgAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cargo.CargoName" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABABAAAAAAAAAgAAAQgAEAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CargoName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cargo.CargoUser" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAAAAAAAAAAACAAAAAAAgCAAAAAEAAAAA=</HashCode>
+      <FileName>CargoUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cargo.Cargo_Location_Table" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cargo.Cargo_Status_Table" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
